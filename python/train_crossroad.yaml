@@ -1,0 +1,6 @@
+train: /home/kjonghun0828/mobility training/data_crossroad/train/images
+val: /home/kjonghun0828/mobility training/data_crossroad/valid/images
+test: /home/kjonghun0828/mobility training/data_crossroad/test/images
+
+nc: 4
+names: ['Car', 'Rider', 'crosswalk', 'person']

@@ -1,0 +1,6 @@
+train: /home/kjonghun0828/mobility training/data/train/images
+val: /home/kjonghun0828/mobility training/data/valid/images
+test: /home/kjonghun0828/mobility training/datas/test/images
+
+nc: 5
+names: ['crutches-4', 'person-0', 'push_wheelchair-3', 'walking_frame-2', 'wheelchair-1']
